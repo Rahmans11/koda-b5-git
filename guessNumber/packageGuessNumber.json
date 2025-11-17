@@ -1,0 +1,13 @@
+{
+  "name": "latihannode1",
+  "version": "1.0.0",
+  "description": "excercise to make guess number program",
+  "license": "ISC",
+  "author": "Rahman",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  }
+}
